@@ -1,0 +1,74 @@
+html {
+  background: #fff;
+}
+body {
+  color: #333;
+}
+.main {
+  width: 650px;
+  margin: 0 auto;
+}
+h1 {
+  text-indent: -999px;
+  overflow: auto;
+  width: 650px;
+  height: 157px;
+  margin: 1em auto;
+  background: transparent url(../images/railsconf5k.gif) 40px 0px no-repeat;
+}
+h2 {
+  font-size: 1.5em;
+  margin-bottom: 0.5em;
+}
+p {
+  margin-bottom: 1em;
+}
+.participate {
+  float: right;
+  text-align: right;
+}
+.register-now {
+  display: block;
+  background-color: #ccc;
+  line-height: 2em;
+  font-size: 2em;
+  -moz-border-radius: 3px;
+  -webkit-border-radius: 3px;
+  border-radius: 3px;
+  padding: 0 1em;
+  text-decoration: none;
+  color: #444;
+  text-shadow: 0px 1px 0px #ddd;
+  margin-bottom: 0.5em;
+  background-color: #ddd;
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0, #fff), color-stop(1, #ddd));
+  background: -moz-linear-gradient(top, #fff, #ddd);
+  border: 1px solid #ddd;
+  font-weight: bold;
+}
+.register-now:hover {
+  -moz-box-shadow:    0 0 6px 2px #fee05e;
+  -webkit-box-shadow: 0 0 6px 2px #fee05e;
+  box-shadow:         0 0 6px 2px #fee05e;
+}
+.sponsorship {
+  text-align: center;
+  font-style: italic;
+  margin-bottom: 5em;
+}
+.sponsorship a {
+  text-indent: -999px;
+  overflow: auto;
+  display: block;
+  background-color: #fda;
+  width: 250px;
+  height: 41px;
+  margin: 0.5em auto 0;
+  background: transparent url(../images/customink.gif) no-repeat;
+}
+.fine-print {
+  margin-top: 6em;
+  font-size: .85em;
+  clear: both;
+  color: #888;
+}
