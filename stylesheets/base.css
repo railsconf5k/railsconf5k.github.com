@@ -66,6 +66,30 @@ p {
   margin: 0.5em auto 0;
   background: transparent url(../images/customink.gif) no-repeat;
 }
+
+.team-competition {
+  margin-top: 2em;
+}
+.team-competition h2 {
+  font-weight: bold;
+}
+.team-competition h3 {
+  font-size: 1.15em;
+  font-weight: bold;
+  margin-bottom: 1em;
+  text-decoration: underline;
+}
+.team-competition dl {
+  margin-bottom: 2em;
+}
+.team-competition dt {
+  font-weight: bold;
+}
+.team-competition dd {
+  margin-left: 2em;
+  margin-bottom: 0.5em;
+}
+
 .fine-print {
   margin-top: 6em;
   font-size: .85em;
