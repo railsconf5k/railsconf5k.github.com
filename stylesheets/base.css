@@ -70,7 +70,8 @@ p {
 .team-competition {
   margin-top: 2em;
 }
-.team-competition h2 {
+.team-competition h2,
+.course-map h2 {
   font-weight: bold;
 }
 .team-competition h3 {
@@ -95,4 +96,15 @@ p {
   font-size: .85em;
   clear: both;
   color: #888;
+}
+
+.course-map {
+  margin-top: 2em;
+}
+ul.bulleted {
+  margin-left: 2em;
+  margin-bottom: 1em;
+}
+ul.bulleted li{
+  list-style-type: disc;
 }
