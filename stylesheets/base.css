@@ -118,3 +118,23 @@ ul.bulleted li{
 .team-competition, .ind-results {
   margin-bottom: 2em;
 }
+table {
+  margin-bottom: 0.75em;
+}
+
+th {
+  font-weight: bold;
+}
+th, td {
+  padding-right: 1.5em;
+}
+.bib, .place, .time {
+  text-align: right;
+}
+/*.place {
+  margin-right: 1em;
+  text-align: right;
+}
+.name {
+  margin
+}*/
